@@ -1,0 +1,8 @@
+#conteudo{ display:none; }
+.center{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -75px; /*centralizando a imagem*/
+    margin-top: -35px; /*centralizando a imagem*/
+}
